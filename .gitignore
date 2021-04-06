@@ -1,0 +1,6 @@
+/.vs
+/build
+/RenderDesktop.sln
+/test/test.vcxproj
+/test/test.vcxproj.filters
+/test/test.vcxproj.user
